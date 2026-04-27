@@ -1,0 +1,12 @@
+[
+    {
+        "email":"soodswayam41@gmail.com",
+        "password":"123456",
+        "expected":"success"
+    },
+    {
+        "email":"test@gmail.com",
+        "password":"123456",
+        "expected":"failure"   
+    }
+]
